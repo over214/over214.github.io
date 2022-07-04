@@ -8,3 +8,8 @@ body {
 .large {
 	font-size: 5em;
 }
+
+button {
+	background: rgb(87, 163, 230);
+	color: white;
+}
