@@ -12,4 +12,10 @@ body {
 button {
 	background: rgb(87, 163, 230);
 	color: white;
+	border-radius: 5px;
+	position: fixed;
+}
+
+.discord {
+	position: fixed;
 }
