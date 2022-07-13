@@ -88,8 +88,7 @@ button:hover {
 	width: 25px;
 	filter: invert(84%) sepia(1%) saturate(0%) hue-rotate(138deg) brightness(94%) contrast(92%);
 }
-
-.download {
+.fa-download {
 	float: right;
 }
 
@@ -102,7 +101,7 @@ button:hover {
 }
 
 .clearfix {
-    *zoom:1 /* for IE */
+    *zoom:1
 }
 
 .clearfix:before,
@@ -117,5 +116,5 @@ button:hover {
 
 .pythonkeywordcolor, .pythonstringcolor, .pythoncolor, .pythonnumbercolor {
 	font-family: times-new-roman;
-	letter-spacing: 1px;
+	letter-spacing: 0.5px;
 }
