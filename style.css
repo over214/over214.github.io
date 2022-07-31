@@ -33,11 +33,6 @@ button:hover {
 	cursor: pointer;
 }
 
-.main2 {
-	border: 1px solid black;
-	margin: 1rem;
-	padding: 2rem 2rem;
-}
 .main {
 	display: inline-block;
 	border: 1px solid black;
@@ -88,6 +83,7 @@ button:hover {
 	width: 25px;
 	filter: invert(84%) sepia(1%) saturate(0%) hue-rotate(138deg) brightness(94%) contrast(92%);
 }
+
 .fa-download {
 	float: right;
 }
@@ -112,9 +108,4 @@ button:hover {
 
 .clearfix:after {
     clear: both;
-}
-
-.pythonkeywordcolor, .pythonstringcolor, .pythoncolor, .pythonnumbercolor {
-	font-family: times-new-roman;
-	letter-spacing: 0.5px;
 }
